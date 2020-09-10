@@ -7,4 +7,6 @@ SeattleAccidentSeverityPrediction.pdf   - Project Report
 
 VisualMapAnalysis.mp4 - Visual Map Analysis Video
 
-SeattleAccidentsSeverityPredictionPPT.pdf - Powerpoint Presentation
+Seattle Accidents Severity PredictionPresentation.pdf - Powerpoint Presentation
+Dataset is too large - Location URL is:
+https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv
